@@ -1,6 +1,7 @@
 body{
+  background-color: rgb(109, 109, 109);
   
-    margin: 0em;
+
      
   }
   
@@ -31,5 +32,22 @@ body{
     background-blend-mode: normal;
   
   }
+
+  .oliver-img{
+
+    height: 1200px;
+
+    object-fit: fill;
+  }
+
+  .oliver-font{
+    font-size: 30px;
+    border: 2px solid #000000; /* Borde sólido */
+    border-radius: 5px; /* Esquinas redondeadas */
+    padding: 20px; /* Espacio dentro del contenedor */
+    width: 300px; /* Ajustar el ancho del contenedor */
+    text-align: center;
+    
+    }
   
   

@@ -1,0 +1,35 @@
+body{
+  
+    margin: 0em;
+     
+  }
+  
+  
+  h1, p, footer{
+    justify-content:center;
+    text-align:center;
+    
+  }
+  
+  .cover{
+    
+    height: 600px;
+      background-image:url(https://cdn.glitch.global/aae3c0aa-8731-4d89-8d84-378f2cc67beb/momo.gif?v=1715789957359);
+      color: white;
+      background-size:cover;
+      background-position:center;
+      background-color: rgba (0,0,0,0.5);
+      background-blend-mode: darken;
+      font-family: Playfair, serif;
+      
+  
+  }
+  
+  .cover-small{
+    
+    height: 500px;
+    background-blend-mode: normal;
+  
+  }
+  
+  
